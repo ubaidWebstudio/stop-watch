@@ -1,0 +1,21 @@
+.contaner{
+    height: 300px;
+    width: 100%;
+}
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+
+}
+
+.button{
+    text-align: center;
+}
+.startstop{
+    color: skyblue;
+}
+.reset{
+    color: skyblue;
+}
